@@ -1,9 +1,10 @@
 # SillyPistol
-
+A Talon-fed pistol with a top prime and a folding magwell.
 
 ## Description
 
 General blaster overview: https://youtu.be/sOaWf6LA0sY
+
 
 
 ## Hardware, Compatability, and Availability
