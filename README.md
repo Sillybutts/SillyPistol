@@ -1,6 +1,8 @@
 # SillyPistol
 A Talon-fed pistol with a top prime and a folding magwell.
 
+# THIS DESIGN IS IN CLOSED BETA. DO NOT PRINT UNLESS I TOLD YOU TO. PARTS WILL NOT BE FINISHED, STUFF WILL BE BAD, UNLESS I TOLD YOU TO PRINT IT.
+
 ## Description
 
 General blaster overview: https://youtu.be/sOaWf6LA0sY
