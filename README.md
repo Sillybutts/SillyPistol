@@ -19,11 +19,15 @@ Fully printed/assembled blasters are available from these sellers:
 
 Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1fVddiRg_cHZpq_5kug_yOeNQVmSZLZVFr3JBSasclJw/
 
+A short piece of 1.75mm filament is used as a pin-keeper, approx 15mm long (1.5cm). It is put across the pin in the mag release to keep it in place. 
+
 Discuss barrel length and spring length here
 
 ## Printing Info
 
 All STLs were exported in print orientation. F3D & STEP source files are also provided.
+
+The blaster uses ~500 grams of PLA.
 
 The Ram and MagwellLock parts require brims.
 
