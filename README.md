@@ -25,11 +25,24 @@ Discuss barrel length and spring length here
 
 All STLs were exported in print orientation. F3D & STEP source files are also provided.
 
+The Ram and MagwellLock parts require brims.
+
 Infills:
-- 69% 420 Walls
-- - thing
-- - thing
-- - thing
+- 10% 4 Walls
+- - All of the Grip Attachment parts
+- - White: Slide
+- - Black: GripBody, TriggerGuard
+
+- 20% 5 Walls
+- - White: SlideEnd, BackCapA, BackCapB
+- - Black: Magwell
+- - Green: Turnaroundnt, Beavertail, GripPanelL/R, SidePanelL/R
+- - Orange: MuzzleCap, MuzzleNut, Muzzle, Trigger, MagRelease
+
+- 100% 5 Walls
+- - Black: PlungerRod
+- - Orange: Ram(brim), Catch, MagwellLock(brim), PlungerFront
+- - Green: TopStrap
 
 ## Assembly
 
