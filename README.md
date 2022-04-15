@@ -38,19 +38,19 @@ Infills:
 - - Black: GripBody, TriggerGuard
 
 - 20% 5 Walls
-- - White: SlideEnd, BackCapA, BackCapB
-- - Black: Magwell
+- - White: BackCapA, BackCapB
 - - Green: Turnaroundnt, Beavertail, GripPanelL/R, SidePanelL/R
 - - Orange: MuzzleCap, MuzzleNut, Muzzle, Trigger, MagRelease
 
 - 100% 5 Walls
-- - Black: PlungerRod
+- - White: SlideEnd
+- - Black: PlungerRod, Magwell
 - - Orange: Ram(brim), Catch, MagwellLock(brim), PlungerFront
 - - Green: TopStrap
 
 ## Assembly
 
-PICS GO HERE
+https://www.youtube.com/watch?v=hprZUKrhnxw
 
 ## Misc.
 
