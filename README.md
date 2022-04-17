@@ -32,7 +32,7 @@ The blaster uses ~500 grams of PLA.
 The Ram and MagwellLock parts require brims.
 
 Infills:
-- 10% 4 Walls
+- 10% 5 Walls
 - - All of the Grip Attachment parts
 - - White: Slide
 - - Black: GripBody, TriggerGuard
