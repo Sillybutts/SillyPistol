@@ -33,7 +33,7 @@ The Magwell part needs supports.
 
 The Ram and MagwellLock parts require brims.
 
-This blaster is designed for PLA parts. Printing in other filaments, like PETG, should be fine, but can lead to broken parts.
+This blaster is designed for PLA parts. Printing in other filaments (like PETG) should be fine, but can lead to broken parts.
 
 Infills:
 - 10% 5 Walls
