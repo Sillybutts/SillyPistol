@@ -29,6 +29,8 @@ All STLs were exported in print orientation. F3D & STEP source files are also pr
 
 The blaster uses ~500 grams of PLA.
 
+The Magwell part needs supports.
+
 The Ram and MagwellLock parts require brims.
 
 Infills:
@@ -44,7 +46,7 @@ Infills:
 
 - 100% 5 Walls
 - - White: SlideEnd
-- - Black: PlungerRod, Magwell
+- - Black: PlungerRod, Magwell(support)
 - - Orange: Ram(brim), Catch, MagwellLock(brim), PlungerFront
 - - Green: TopStrap
 
