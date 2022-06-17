@@ -3,6 +3,8 @@ A Talon-fed pistol with a top prime and a folding magwell.
 
 # THIS DESIGN IS IN CLOSED BETA. DO NOT PRINT UNLESS I TOLD YOU TO. PARTS WILL NOT BE FINISHED, STUFF WILL BE BAD, UNLESS I TOLD YOU TO PRINT IT.
 
+- Changelog: 6-17-22: Added an optional beefier MagwellLock in response to a user snapping their normal one. The beefier version is twice as thick. It should be more durable, but it takes more force to close the magwell.
+
 ## Description
 
 General blaster overview: https://youtu.be/sOaWf6LA0sY
