@@ -52,7 +52,7 @@ Infills:
 - 100% 5 Walls
 - - White: SlideEnd
 - - Black: PlungerRod(would be good to have more than 5 walls, anywhere from 5 to 10), Magwell(support)
-- - Orange: Ram(brim), Catch, MagwellLock(brim), PlungerFront
+- - Orange: Ram(brim), Catch, MagwellLock(brim), PlungerHead
 - - Green: TopStrap
 
 ## Assembly
